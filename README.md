@@ -1,5 +1,4 @@
-[![Typing SVG]([https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=40&color=F2F72F&background=0A0B01&vCenter=true&width=900&height=200&lines=Hey!+Myself+Yatharth+Verma;I+am+what+you+call+:+a+Developer+of+all+sorts](https://readme-typing-svg.herokuapp.com/?font=ubuntu&size=40&color=ff69b4&background=0a0b01&vcenter=true&width=900&height=200&lines=hey!+My+name+is+Nandiinii+Rawatt:);I%27m+a+Backend+Developer+and+a+Devops%20Engineer)](https://git.io/typing-svg)))]
-
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=ubuntu&size=40&color=ff69b4&background=0a0b01&vcenter=true&width=900&height=200&lines=hey!+My+name+is+Nandiinii+Rawatt:);I%27m+a+Backend+Developer+and+a+Devops%20Engineer)
 <h1 align="center">🎓 I'm a Computer Science Bachelor Student at <a href="https://www.tum.de/">Technical University of Munich</a></h1>
 <h3 align="center">More about me!</h3>
 

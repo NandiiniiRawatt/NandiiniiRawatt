@@ -1,4 +1,4 @@
-[![Typing SVG](https://readmetypingsvg.herokuapp.com/font=ubuntu&size=40&color=ff69b4&background=0a0b01&vcenter=true&width=900&height=200&lines=Hello+World!+My+name+is+Nandiinii+Rawatt:);I%27m+a+Backend+Developer+and+a+Devops%20Engineer)](https://git.io/typing-svg)
+https://readmetypingsvg.herokuapp.com/font=ubuntu&size=40&color=ff69b4&background=0a0b01&vcenter=true&width=900&height=200&lines=Hello+World!+My+name+is+Nandiinii+Rawatt:);I%27m+a+Backend+Developer+and+a+Devops%20Engineer
 
 <h1 align="center">🎓 I'm a Computer Science Bachelor Student at <a href="https://www.tum.de/">Technical University of Munich</a></h1>
 <h3 align="center">More about me!</h3>

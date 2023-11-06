@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=ubuntu&size=40&color=ff69b4&background=0a0b01&vcenter=true&width=900&height=200&lines=Hello+World!+I'm+Nandiinii+Rawatt+&#128515; I'm+a+Backend+Developer+and+a+Devops%20Engineer)
+![Combined Animation and Text](https://readme-typing-svg.herokuapp.com/?font=ubuntu&size=40&color=ff69b4&background=0a0b01&vcenter=true&width=900&height=200&lines=Hello+World!+I'm+Nandiinii+Rawatt+&#128515;I'm+a+Backend+Developer+and+a+Devops%20Engineer)
 <h2 align="left">🎓 I'm a Computer Science Bachelor Student at <a href="https://www.tum.de/">Technical University of Munich</a></h2>
 <h3 align="center">More about me!</h3>
 

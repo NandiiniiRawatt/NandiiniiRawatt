@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF69B4&background=0D1117&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Nandiinii+Rawatt!;Data+Analyst++%7C+Data+Engineer+Enthusiast;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://github.com/NandiiniiRawatt/NandiiniiRawatt/blob/main/intro.gif?raw=true" alt="Animated Background" width="800"/>
 </h1>
+
 
 ---
 

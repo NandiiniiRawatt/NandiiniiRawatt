@@ -28,7 +28,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,python,java,react,postgres,mysql,git,figma,linux,sql,powerbi&theme=dark" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,python,java,react,postgres,mysql,git,figma,linux,powerbi&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
